@@ -1,1 +1,1 @@
-# pikicode_shopping
+# This is the ecommerce website for PikiCode
