@@ -7,7 +7,7 @@
 # LICENSE file in the root directory of this source tree.
 from django.conf import settings
 from django.contrib import messages
-from django.contrib.auth import logout
+from django.contrib.auth import logout 
 from django.contrib.auth.models import AnonymousUser
 from django.contrib.auth.signals import user_logged_in, user_logged_out
 from django.http import HttpResponse
